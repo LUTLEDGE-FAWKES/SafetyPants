@@ -1,0 +1,5 @@
+<view class="view">{{output1}}</view>
+<button bindtap="trans">↑↓</button>
+<view style="color:{{color}}" class="view">{{output2}}</view>
+<button class="next" bindtap="begin">{{but}}</button>
+<button class="meaning" bindtap="search">查看意思</button>

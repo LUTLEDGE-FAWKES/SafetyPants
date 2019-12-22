@@ -1,0 +1,5 @@
+<view class="sent1">请输入想要记录的单词:</view>
+<input class="input1" bindinput="inputEn" value="{{input1}}"></input>
+<view class="sent2">请输入其中文意思:</view>
+<input class="input2" bindinput="inputZh" value="{{input2}}"></input>
+<button class="button" bindtap="up">导入</button>
